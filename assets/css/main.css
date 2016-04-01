@@ -2308,6 +2308,12 @@
 				.box.style3 {
 					padding: 2.5em 2em 2.5em 2em;
 				}
+				.iframe{
+					padding-top: 60x;
+                    padding-right: 80px;
+                    padding-bottom: 60px;
+                    padding-left: 80px;
+				}
 
 		/* Banner */
 
@@ -2530,11 +2536,5 @@
 			.poptrox-popup .closer {
 				opacity: 0.5;
 			}
-			.ifram{
-				margin-top: 100px;
-                margin-bottom: 100px;
-                margin-right: 150px;
-                margin-left: 150px;
-			}
 
-	}
+		}
