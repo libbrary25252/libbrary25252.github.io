@@ -1437,7 +1437,7 @@
 		}
 
 	footer {
-		margin-top: 1em;
+		margin-top: 3em;
 	}
 
 	br.clear {
@@ -1967,7 +1967,7 @@
 
 		#header footer {
 			position: absolute;
-			bottom: 9em;
+			bottom: 7em;
 			margin: 0;
 			width: 100%;
 		}
