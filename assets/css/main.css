@@ -13,7 +13,8 @@
 		margin: 0;
 		padding: 0;
 		border: 0;
-		font-size: 100%;
+		font-size: 100%;header header
+
 		font: inherit;
 		vertical-align: baseline;
 	}
@@ -1311,7 +1312,7 @@
 
 	body {
 		background-color: #183026;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("https://static.pexels.com/photos/1826/wood-nature-sunny-forest.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
@@ -1927,8 +1928,8 @@
 
 	#header {
 		position: relative;
-		color: #fff;
-		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
+		color: #980000;
+		text-shadow: 0 0 0.5px rgba(181, 6, 6, 0.63);
 		text-align: center;
 		margin: 0;
 		padding: 14em 0 14em 0;
@@ -1947,9 +1948,9 @@
 			}
 
 			#header header p {
-				border-top: solid 1px rgba(255, 255, 255, 0.5);
-				color: rgba(255, 255, 255, 0.75);
-				text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.1875);
+				border-top: solid 1px rgba(181, 6, 6, 0.63);
+				color: rgba(181, 6, 6, 0.63);
+				text-shadow: 0 0 0.5px rgba(181, 6, 6, 0.63);
 				font-size: 1em;
 				text-transform: uppercase;
 				letter-spacing: 3px;
@@ -1960,7 +1961,7 @@
 				#header header p:before {
 					content: '';
 					display: block;
-					border-top: solid 1px rgba(255, 255, 255, 0.5);
+					border-top: solid 1px rgba(255, 170, 9, 1);
 					margin: 4px 0 0.8em 0;
 				}
 
